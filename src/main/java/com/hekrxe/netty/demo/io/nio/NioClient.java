@@ -1,4 +1,4 @@
-package com.hekrxe.netty.demo.nio;
+package com.hekrxe.netty.demo.io.nio;
 
 
 import java.io.IOException;

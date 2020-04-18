@@ -1,4 +1,4 @@
-package com.hekrxe.netty.demo.aio;
+package com.hekrxe.netty.demo.io.aio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

@@ -1,4 +1,4 @@
-package com.hekrxe.netty.demo.aio;
+package com.hekrxe.netty.demo.io.aio;
 
 import java.nio.channels.AsynchronousServerSocketChannel;
 import java.util.concurrent.CountDownLatch;

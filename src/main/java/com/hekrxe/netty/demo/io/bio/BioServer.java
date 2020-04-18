@@ -1,4 +1,4 @@
-package com.hekrxe.netty.demo.bio;
+package com.hekrxe.netty.demo.io.bio;
 
 import java.io.IOException;
 import java.io.InputStream;
